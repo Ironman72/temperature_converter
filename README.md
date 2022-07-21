@@ -1,2 +1,2 @@
 # Temperature_Converter...
-Code to convert temperature to Celcius to Fahrenheit vice-versa
+Code to convert temperature to Celcius -  Fahrenheit vice-versa
